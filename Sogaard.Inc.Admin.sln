@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AdminAzure", "AdminAzure\AdminAzure.ccproj", "{C54731A8-FB6E-4E5F-9D8C-163853F377D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sogaard.Inc.Admin", "Sogaard.Inc.Admin\Sogaard.Inc.Admin.csproj", "{040BE2E9-4195-4B10-A060-4D64AFB8BAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54731A8-FB6E-4E5F-9D8C-163853F377D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54731A8-FB6E-4E5F-9D8C-163853F377D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54731A8-FB6E-4E5F-9D8C-163853F377D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54731A8-FB6E-4E5F-9D8C-163853F377D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040BE2E9-4195-4B10-A060-4D64AFB8BAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040BE2E9-4195-4B10-A060-4D64AFB8BAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040BE2E9-4195-4B10-A060-4D64AFB8BAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040BE2E9-4195-4B10-A060-4D64AFB8BAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
